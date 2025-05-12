@@ -1,5 +1,6 @@
 node_modules/
 dist/
+actions-runner/
 *.tar
 *.zip
 *.img

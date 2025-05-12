@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.tar
+*.zip
+*.img
+*.iso
+*.mp4
+*.jpg
+*.png
+Dockerfile*
+*.log
